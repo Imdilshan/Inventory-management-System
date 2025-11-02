@@ -63,9 +63,9 @@ If there are no errors, it will create an executable file named inventory.±
 
 ## 📂 File Structure
 📦 Inventory-Management-BST
- - 📜 inventory_bst.cpp     # Main source code file
- - 📜 README.md              # Project documentation
- - 📁 screenshots/           # (Optional) Folder for sample outputs or screenshots
+ - 📜 inventory_bst.cpp     
+ - 📜 README.md              
+ - 📁 screenshots/        
 
  ## 🧰 Technologies Used
  	•	Programming Language: C++
